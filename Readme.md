@@ -93,13 +93,13 @@
   <a name="具体实现"></a>
   先为游戏导入一个500x500的白色的任意的.jpg图片作为底色! 这个图片作为Assets的sprites!
   <div>
-    <img src="images/tile_image"  alt = "1" />
+    <img src="images/tile_image" />
 </div><br></br>
 
   在创建一个canvas作为画布来在上面进行进一步的操作
   接下来按照以下的层次结构来创建：
   <div>
-    <img src="images/design"  alt = "1"/>
+    <img src="images/design" />
 </div><br></br>
   
   
