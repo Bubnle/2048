@@ -85,7 +85,7 @@
   #### 3.1.1 游戏整体界面展示
   <a name="游戏整体界面展示"></a>
   <div>
-    <img src="ui_design.jpg" />
+    <img src="images/ui_design.jpg" />
 </div><br></br>
   如上图就是游戏的最终整体界面展示!
 
