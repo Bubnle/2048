@@ -101,8 +101,13 @@
   <div>
     <img src="images/design.jpg" />
 </div><br></br>
-  
-  
+
+  接下来为每一个来添加image使用的就是我们的sprites中的Tile接下来为不同的添加不同的颜色!
+  <div>
+    <img src="images/color.jpg" />
+</div><br></br>
+
+  最后就可以得到最终的UI界面!
 ### 3.2 游戏主要逻辑实现
 <a name="游戏主要逻辑实现"></a>
   #### 3.2.1 移动方块的实现
